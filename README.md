@@ -1,2 +1,2 @@
-# Lenovo-Ideapad-320-14ikb
+# Lenovo-Ideapad-320-14IKB
 Installing procedures
